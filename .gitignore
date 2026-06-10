@@ -14,7 +14,7 @@ local DEBUG_MODE = false
 -- 1. СКОРОСТЬ
 -- ══════════════════════════════════════════════
 local WALK_SPEED = 21
-local SEEK_SPEED = 28
+local SEEK_SPEED = 21
 local seekChasing = false
 
 local function getTargetSpeed()
